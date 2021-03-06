@@ -1,3 +1,5 @@
+#![no_std]
+
 use num_traits::int::PrimInt;
 
 #[inline(always)]
